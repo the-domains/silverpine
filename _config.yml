@@ -1,0 +1,28 @@
+name: silverpine
+favicon: null
+layout_spectrum: 0.5567225266713649
+typography_spectrum: 0.8289900759700686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6534057583194226
+  lightness: 0.9688805446494371
+  saturation: 0.9431909960694611
+  rhythmicContrast: 0.7346920121926814
+purpose: []
